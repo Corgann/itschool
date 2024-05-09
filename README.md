@@ -1,2 +1,1 @@
-#demo0-git-github
-# itschool
+# itschool-sedinta20-exercitiu
